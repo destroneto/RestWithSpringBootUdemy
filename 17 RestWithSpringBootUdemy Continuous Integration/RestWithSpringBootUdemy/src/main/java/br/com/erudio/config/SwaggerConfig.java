@@ -28,7 +28,7 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfo("RESTful API with Spring Boot 2.1.3 - Foo Bar X",
+		return new ApiInfo("RESTful API with Spring Boot 2.1.3 - Foo Bar",
 				"Estudo sobre restfull api no spring boot e afins",
 				"v1",
 				"terms of service",
